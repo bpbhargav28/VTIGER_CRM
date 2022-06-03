@@ -1,1 +1,2 @@
 #First software ready to deploy
+bugs recorded in V1.0
