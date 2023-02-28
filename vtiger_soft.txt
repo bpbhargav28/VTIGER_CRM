@@ -1,3 +1,5 @@
 #First software ready to deploy
 bugs recorded in V1.0
 bugs fixed and ready to deploy
+Testing the bugs
+Ok fine
